@@ -79,6 +79,7 @@
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 * [Almaany](https://www.almaany.com/) - Arabic Multilingual Dictionary
 * [Mo3jam](https://ar.mo3jam.com) - Arabic Colloquial / Slang Dictionary
+* [Ahmedkano-Readings](https://ahmedkanoreadings.substack.com)) - Translated Arabic Essays
 
 ***
 
